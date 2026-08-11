@@ -1,0 +1,13 @@
+.DS_Store
+.build/
+.swiftpm/
+build/
+DerivedData/
+*.xcuserstate
+
+# Local Codex and research state
+.codex/
+.firecrawl/
+
+# Local app caches and logs
+*.log
