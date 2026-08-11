@@ -4,6 +4,12 @@ A native menu-bar app that puts inspiring art on your desktop and lock screen.
 Every day it picks the next work from a fixed, hand-curated rotation led by
 Christian sacred art and the great Renaissance and Baroque masters.
 
+## Screenshot
+
+![Art Daily presenting Music-Making Angels on the macOS lock screen](docs/images/art-daily-lock-screen.jpg)
+
+*The default framed treatment preserves the complete artwork while extending it naturally across the display.*
+
 ## Features
 
 - **Art before aspect ratio** — landscape works can fill the screen; portrait,
